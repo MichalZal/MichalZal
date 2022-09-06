@@ -21,8 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40" alt="icon" style="background-color: white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="background-color: white;"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg style="background-color: white;"" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style='background-color: white;'/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalZal)](https://github.com/MichalZal/github-readme-stats)
+
 
 ![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
