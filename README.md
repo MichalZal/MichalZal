@@ -20,3 +20,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40" alt="icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
 </div>
+
+![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
