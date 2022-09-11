@@ -12,7 +12,7 @@
 
 
 <h2>:hammer_and_wrench: Tech I use:</h2>
-<div style="display: flex; flex-wrap: wrap; background: #fff;">
+<div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" alt="icon" style="background-color: white;"/><p>TypeScript</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40" alt="icon" style="background-color: white;"/><p>React</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="40" height="40" alt="icon" style="background-color: white;"/><p>Redux</p>
