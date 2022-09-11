@@ -6,10 +6,9 @@
 <h2 align="cetner">Im Micheal. I like web development</h2>
 
 ## :woman_technologist: About Me :
-### Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-### I love web development ❤
-### I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there. :)
-
+### - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### - I love web development ❤
+### - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there. :)
 
 <h2>:hammer_and_wrench: Tech I use:</h2>
 <div style="display: flex;">
@@ -27,7 +26,7 @@
 </div> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalZal)](https://github.com/MichalZal/github-readme-stats)  
-&nbsp; 
+
 ![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
 
 
