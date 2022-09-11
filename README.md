@@ -26,9 +26,8 @@
   &nbsp; 
 </div> 
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalZal)](https://github.com/MichalZal/github-readme-stats)  
-  &nbsp; 
-  ![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalZal)](https://github.com/MichalZal/github-readme-stats)  
+&nbsp; 
+![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
+
 
