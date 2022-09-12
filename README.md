@@ -1,7 +1,10 @@
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Im Micheal. I like web development
+  <div>Hey there!
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </div>
+  <div>
+      Im Micheal. I like web development  
+  </div>
 </h1>
 
 ## :woman_technologist: About Me :
