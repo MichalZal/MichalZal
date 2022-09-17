@@ -7,12 +7,12 @@
   </div>
 </h1>
 
-##:woman_technologist: About Me :
+## :woman_technologist: About Me :
 ### - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 ### - I love web development ❤
 ### - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there. :)
 
-<h2>:hammer_and_wrench: Technologies I use:</h2>
+## :hammer_and_wrench: Technologies I use:
 <h2 align="center" style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
