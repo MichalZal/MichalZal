@@ -8,12 +8,12 @@
 </h1>
 
 ## :woman_technologist: About Me :
-### - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-### - I love web development ❤
-### - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
-### - I love math. Especcially because it is everywhere around us. 兀
-### - In future I want to be devOPS engineer.
-### - My main language is JavaScript with React Framework, but in the future I want to switch to low-level langauge like Rust or Go, which now are one of the best technologies we have.
+ - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ - I love web development ❤
+ - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
+ - I love math. Especcially because it is everywhere around us. 兀
+ - In future I want to be devOPS engineer.
+ - My main language is JavaScript with React Framework, but in the future I want to switch to low-level langauge like Rust or Go, which now are one of the best technologies we have.
 
 ## :hammer_and_wrench: Technologies I use:
 <h2 align="center" style="display: flex;">
@@ -31,7 +31,8 @@
 
 
 <h2>Check this out: </h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalZal)](https://github.com/MichalZal/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalZal&theme=tokyonight)
+
 
 ![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
 
