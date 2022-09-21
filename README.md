@@ -34,6 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalZal&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=MichalZal&show_icons=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichalZal"/>
+<div></div>
 ![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
 
 
