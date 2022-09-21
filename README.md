@@ -31,8 +31,9 @@
 
 
 <h2>Check this out: </h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalZal)](https://github.com/MichalZal/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalZal&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MichalZal&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichalZal"/>
 ![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
 
 
