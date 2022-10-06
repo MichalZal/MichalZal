@@ -19,10 +19,14 @@
 <h2 align="center" style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
   
