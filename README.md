@@ -13,7 +13,7 @@
  - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
  - I love math. Especcially because it is everywhere around us. 兀
  - In future I want to be devOPS engineer.
- - My main language is JavaScript with React Framework, but in the future I want to switch to low-level langauge like Rust or Go, which now are one of the best technologies we have.
+ - My main language is Typescript with React Framework, but in the future I want to switch to low-level langauge like Rust or Dart, which now are one of the best technologies.
 
 
 ## :hammer_and_wrench: Technologies I use:
