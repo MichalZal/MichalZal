@@ -17,6 +17,7 @@
  - My favourite language is Typescript with React Framework, but in the future I want to switch to low-level langauge like Rust or Dart, which now are one of the best technologies.
 
 
+
 ## :hammer_and_wrench: Technologies I use:
 <h2 align="center" style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
