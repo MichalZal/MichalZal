@@ -11,7 +11,7 @@
  - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
  - I love web development ❤
  - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
- - I love math. Especcially because it is everywhere around us. 兀
+ - I love math. Especcially because it is everywhere around us. 兀 Φ 
  - In future I want to be devOPS engineer.
  - My favourite language is Typescript with React Framework, but in the future I want to switch to low-level langauge like Rust or Dart, which now are one of the best technologies.
 
