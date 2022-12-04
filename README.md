@@ -16,7 +16,7 @@
  - My favourite language is Typescript with React Framework and aside I'm learning swfit. 
 
 ## :hammer_and_wrench: Technologies I use:
-<h2 align="center" style="display: flex;">
+<h2 align="start" style="display: flex;">
   <div>
   Typescript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
