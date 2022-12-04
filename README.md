@@ -16,51 +16,52 @@
  - My favourite language is Typescript with React Framework and aside I'm learning swfit. 
 
 ## :hammer_and_wrench: Technologies I use:
-<h2 align="start" style="display: flex;">
+<h2 align="start" justift="center" style="display: flex;">
   <div>
-  Typescript
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    Typescript
   </div>
   
   <iv>
-  NextJS
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
-  </div>
-  
-  <div>
-  React
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
+    NextJS
    </div>
   
   <div>
-  Redux
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    React
   </div>
   
   <div>
-   NodeJS
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    Redux
+  </div>
+  
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: 
   white;"/>
-  </div>
-  
-   <div>
-  Express
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
+    NodeJS
   </div>
   
   <div>
-  Tailwindcss
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
-   </div>
-   <div>
-   Sass
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
+    Express
   </div>
   
   <div>
-  Python
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
+    Tailwindcss
+  </div>
+  
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
+    Sass
+  </div>
+  
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
   &nbsp; 
+    Python
   </div>
   
 </h2> 
