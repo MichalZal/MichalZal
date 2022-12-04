@@ -13,24 +13,55 @@
  - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
  - I love math. Especcially because it is everywhere around us. 兀 Φ 
  - In future I want to be devOPS engineer.
- - My favourite language is Typescript with React Framework, but in the future I want to switch to low-level langauge like Rust or Dart, which now are one of the best technologies.
+ - My favourite language is Typescript with React Framework and aside I'm learning swfit. 
 
 ## :hammer_and_wrench: Technologies I use:
 <h2 align="center" style="display: flex;">
+  <div>
+  Typescript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+  </div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+  <iv>
+  NextJS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
+  </div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+  <div>
+  React
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+   </div>
   
+  <div>
+  Redux
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+  </div>
+  
+  <div>
+   NodeJS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: 
+  white;"/>
+  </div>
+  
+   <div>
+  Express
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
+  </div>
   
+  <div>
+  Tailwindcss
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
+   </div>
+   <div>
+   Sass
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
+  </div>
+  
+  <div>
+  Python
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
   &nbsp; 
+  </div>
   
 </h2> 
 
