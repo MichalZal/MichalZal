@@ -16,36 +16,39 @@
  - My favourite language is Typescript with React Framework and aside I'm learning swfit. 
 
 ## :hammer_and_wrench: Technologies I use:
-<h2 align="start" justift="center" display="flex">
+<div align="center">
+  <div style="display: flex;">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <p text="center">Typescript</p>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
-  <p text="center">NextJS</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    <p text="center">Typescript</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
+    <p text="center">NextJS</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    <p text="center">React</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    <p text="center">Redux</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+    <p text="center">NodeJS</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
+    <p text="center">Express</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
+    <p text="center">Tailwindcss</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
+    <p text="center">Sass</p>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
+    &nbsp; 
+    <p text="center">Python</p>  
+  <div>
+</div> 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <p text="center">React</p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <p text="center">Redux</p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <p text="center">NodeJS</p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
-  <p text="center">Express</p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
-  <p text="center">Tailwindcss</p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
-  <p text="center">Sass</p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
-  &nbsp; 
-  <p text="center">Python</p>  
-</h2> 
 
 ![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
 
@@ -56,5 +59,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichalZal"/>
 
-<div></div>
 
