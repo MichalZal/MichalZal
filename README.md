@@ -17,52 +17,36 @@
 
 ## :hammer_and_wrench: Technologies I use:
 <h2 align="start" justift="center" style="display: flex;">
-  <div >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-    Typescript
-  </div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+  <p text="center">Typescript</p>
+ 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
+   <p text="center">NextJS</p>
   
-  <div >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
-    NextJS
-   </div>
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
+   <p text="center">React</p>
   
-  <div >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-    React
-  </div>
-  
-  <div >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-    Redux
-  </div>
+     <p text="center">Redux</p>
   
-  <div >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: 
   white;"/>
-    NodeJS
-  </div>
+    <p text="center">NodeJS</p>
   
-  <div >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
-    Express
-  </div>
+     <p text="center">Express</p>
   
-  <div >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
-    Tailwindcss
-  </div>
+    <p text="center">Tailwindcss</p>
   
-  <div >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
-    Sass
-  </div>
+     <p text="center">Sass</p>
   
-  <div >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
   &nbsp; 
-    <p text="center">Python<p>
-  </div>
+  <p text="center">Python</p>  
   
 </h2> 
 
