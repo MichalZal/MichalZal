@@ -17,7 +17,7 @@
 
 ## :hammer_and_wrench: Technologies I use:
 <div align="center">
-  <div style="display: flex;">
+  <h2 style="display: flex;">
 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
     <p text="center">Typescript</p>
