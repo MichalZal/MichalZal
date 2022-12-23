@@ -19,23 +19,23 @@
 <h2 align="start" justift="center" style="display: flex;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <p> text="center">Typescript</p>
+  <p text="center">Typescript</p>
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
-  <p> text="center">NextJS</p>
+  <p text="center">NextJS</p>
   
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
   <p text="center">React</p>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <p> text="center">Redux</p>
+  <p text="center">Redux</p>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
-  <p> text="center">NodeJS</p>
+  <p text="center">NodeJS</p>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="background-color: white;"/>
-  <p> text="center">Express</p>
+  <p text="center">Express</p>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="icon"  style="background-color: white;"/>
   <p text="center">Tailwindcss</p>
