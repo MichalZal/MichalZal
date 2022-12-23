@@ -12,7 +12,7 @@
  - I love web development ❤
  - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
  - I love math. Especcially because it is everywhere around us. 兀 Φ 
- - In future I want to be devOPS engineer.
+ - In future I want to be backend engineer.
  - My favourite language is Typescript with React Framework and aside I'm learning swfit. 
 
 ## :hammer_and_wrench: Technologies I use:
@@ -61,7 +61,7 @@
   <div >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
   &nbsp; 
-    <p align="center">Python<p>
+    <p text="center">Python<p>
   </div>
   
 </h2> 
