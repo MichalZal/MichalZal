@@ -4,17 +4,18 @@
   </div>
   <div id="badges" align="center">
     <a href="https://www.facebook.com/Michalzalewsk">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="70" height="70" alt="Facebook Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="40" height="40" alt="Facebook Badge"/>
     </a>
     <a href="mailto:michal.3zalewski@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="70" height="70" alt="Gmail Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail Badge"/>
     </a>
     <a href="https://twitter.com/Micha20444805">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="70" height="70" alt="Twitter Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="40" height="40" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MichalZal&style=flat-square&color=blue" alt=""/>
 </h1>
+
 
 ## :woman_technologist: About Me :
  - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -24,8 +25,8 @@
  - My favourite language is Typescript and aside I'm learning swfit. 
 
 ## :hammer_and_wrench: Technologies I use:
-<div align="center" float="left">
-  <div style="display: flex;">
+<div align="center">
+  <div style="display: flex;" align="start">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
     <p text="center">Typescript</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
