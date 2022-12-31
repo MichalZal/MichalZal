@@ -2,7 +2,7 @@
   <div>Hey there!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
-  <div id="badges">
+  <div id="badges" align="center">
     <a href="https://www.facebook.com/Michalzalewsk">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="70" height="70" alt="Facebook Badge"/>
     </a>
@@ -10,8 +10,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="70" height="70" alt="Gmail Badge"/>
     </a>
     <a href="https://twitter.com/Micha20444805">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="70" height="70 alt="Twitter Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="70" height="70" alt="Twitter Badge"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=MichalZal&style=flat-square&color=blue" alt=""/>
   </div>
 </h1>
 
