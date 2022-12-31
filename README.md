@@ -3,11 +3,11 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
   <div id="badges">
-    <a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.facebook.com/Michalzalewsk">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook Badge"/>
     </a>
-    <a href="![image](https://user-images.githubusercontent.com/78042518/210132716-b9046a57-3d4b-448b-920d-62e9ab79bc54.png)">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="mailto:michal.3zalewski@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Badge"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
