@@ -12,8 +12,8 @@
     <a href="https://twitter.com/Micha20444805">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="70" height="70" alt="Twitter Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=MichalZal&style=flat-square&color=blue" alt=""/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=MichalZal&style=flat-square&color=blue" alt=""/>
 </h1>
 
 ## :woman_technologist: About Me :
