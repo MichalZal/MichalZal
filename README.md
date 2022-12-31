@@ -9,8 +9,8 @@
     <a href="mailto:michal.3zalewski@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="70" height="70" alt="Gmail Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://twitter.com/Micha20444805">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="70" height="70 alt="Twitter Badge"/>
     </a>
   </div>
 </h1>
