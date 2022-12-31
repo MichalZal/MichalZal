@@ -4,10 +4,10 @@
   </div>
   <div id="badges">
     <a href="https://www.facebook.com/Michalzalewsk">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="70" height="70" alt="Facebook Badge"/>
     </a>
     <a href="mailto:michal.3zalewski@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="70" height="70" alt="Gmail Badge"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
