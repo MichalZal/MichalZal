@@ -2,22 +2,29 @@
   <div>Hey there!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
-  <div>
-      Im Micheal. I love web development  
+  <div id="badges">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="![image](https://user-images.githubusercontent.com/78042518/210132716-b9046a57-3d4b-448b-920d-62e9ab79bc54.png)">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
   </div>
 </h1>
 
 ## :woman_technologist: About Me :
  - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
- - I love web development ❤
+ - I like web development ❤
  - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
- - I love math. Especcially because it is everywhere around us. 兀 Φ 
- - In future I want to be backend engineer.
- - My favourite language is Typescript with React Framework and aside I'm learning swfit. 
+ - Math is interesting. Especcially because it is everywhere around us. 兀 Φ 
+ - My favourite language is Typescript and aside I'm learning swfit. 
 
 ## :hammer_and_wrench: Technologies I use:
 <div align="center" float="left">
-  <div style="">
+  <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="70" height="70" alt="icon" style="background-color: white;"/>
     <p text="center">Typescript</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" style="background-color: white;"/>
