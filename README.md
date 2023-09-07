@@ -10,9 +10,6 @@
     <a href="mailto:michal.3zalewski@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail Badge"/>
     </a>
-    <a href="https://twitter.com/Micha20444805">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="40" height="40" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MichalZal&style=flat-square&color=blue" alt=""/>
 </h1>
