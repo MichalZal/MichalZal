@@ -16,11 +16,10 @@
 
 
 ## :woman_technologist: About Me :
- - Im a 17 y.o. guy from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
- - I like web development ❤
- - I'm currently a student in one of Polsih "Tehniqums" and I hate wasting time in there, but some subjects are kinda interesting.
- - Math is interesting. Especcially because it is everywhere around us. 兀 Φ 
- - My favourite language is Typescript and aside I'm learning swfit. 
+ - I am a 18 y.o. student from poland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ - Web development and dynamic programming is my passion ❤
+ - Currently a student in Technical School in IT specialisation degree. 
+ - My favourite language is Typescript and most used framework - React. 
 
 ## :hammer_and_wrench: Technologies I use:
   <div>
@@ -34,18 +33,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" height="70" style="background-color: white;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" style='background-color: white;'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="70" height="70" style='background-color: white;'/>
-
   <div>
   
-
-![Snake animation](https://github.com/MichalZal/MichalZal/blob/output/github-contribution-grid-snake.svg)
-
 <h2>Check this out: </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalZal&layout=compact"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MichalZal&show_icons=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichalZal"/>
-
-    <div></div>
-
